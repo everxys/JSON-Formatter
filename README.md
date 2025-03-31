@@ -24,5 +24,5 @@ Just open the index.html
 
 ### Screenshot
 
-![](./assets/screenshot.png)
+![](./assets/Screenshot.png)
 
